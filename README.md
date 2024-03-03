@@ -1,4 +1,4 @@
-# madexp2
+# madlab-exp2
 
 A new Flutter project.
 
